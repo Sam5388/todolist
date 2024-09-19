@@ -16,8 +16,8 @@ This is a simple Todo List application built using HTML, CSS, and JavaScript. Us
 - Bootstrap 4
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/todo-list.git`
-2. Navigate to the project directory: `cd todo-list`
+1. Clone the repository: `git clone https://github.com/Sam5388/todolist.git`
+2. Navigate to the project directory: `cd todolist`
 3. Open `index.html` in your web browser.
 
 ## Usage
