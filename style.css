@@ -1,0 +1,59 @@
+.background{
+    background-color: rgb(246, 243, 241);
+    padding: 25px;
+    height: 100vh;
+}
+.add{
+    background-color: rgb(86, 86, 156);
+    color: white;
+    font-size: 20px;
+}
+.todohead{
+    text-align: center;
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
+.inputElement{
+    height: 5%;
+    width: 70%;
+    border-color: rgb(252, 251, 251);
+    border-style: none;
+}
+.checkbox{
+    height: 20px;
+    width: 20px;
+    margin-right: 12px;
+    margin-top: 12px;
+}
+
+
+
+.todo-cont{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+
+}
+.checkbox-right-cont{
+    background-color: rgb(197, 255, 255);
+    padding-top: 7px;
+    padding-left: 2%;
+    width: 82%;
+    display: flex;
+    flex-direction: row;
+    border-left-style: solid;
+    
+    
+}
+.delete-icon-cont{
+    margin-left: auto;
+    width: 10%;
+    padding-top: 5px;
+}
+.cc{
+    display: flex;
+    flex-direction: column;
+}
+.checked{
+    text-decoration: line-through;
+}
